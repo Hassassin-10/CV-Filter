@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hassassin-10/CV-Filter/main/frontend/src/assets/hero.png" alt="CV Filter Banner" width="100%" />
-
 # 🔬 CV Filter — Interactive Computer Vision Lab
 
 **A full-stack, browser-based Computer Vision laboratory for image processing, edge detection, segmentation, morphology, and Fourier analysis — powered by OpenCV and React.**
@@ -34,7 +30,7 @@ Upload Image → Select Module → Adjust Parameters → Apply → Compare → D
 
 | Landing Page | Processing Workspace |
 |:---:|:---:|
-| ![Landing](https://raw.githubusercontent.com/Hassassin-10/CV-Filter/main/frontend/src/assets/hero.png) | ![Workspace](https://raw.githubusercontent.com/Hassassin-10/CV-Filter/main/frontend/src/assets/hero.png) |
+| ![Landing](frontend/public/landing.png) | ![Workspace](frontend/public/processing.png) |
 
 | Histogram Analysis | FFT Spectrum | Theory Modal |
 |:---:|:---:|:---:|
