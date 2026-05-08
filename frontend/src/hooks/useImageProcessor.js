@@ -29,7 +29,8 @@ export function useImageProcessor() {
     const imageToProcess = processedImage || originalImage
 
     try {
-      const res = await axios.post(`/api/${module}/${operation}`, {
+      const baseURL = import.meta.env.VITE_API_BASE_URL || ''
+      const res = await axios.post(`${baseURL}/api/${module}/${operation}`, {
         image: imageToProcess,
         ...params,
       })
