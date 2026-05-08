@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🔬 CV Filter — Interactive Computer Vision Lab
 
 **A full-stack, browser-based Computer Vision laboratory for image processing, edge detection, segmentation, morphology, and Fourier analysis — powered by OpenCV and React.**
